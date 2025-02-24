@@ -1,0 +1,194 @@
+.frist-box{
+    background-color: #f8f5f5;
+    width: 110%;
+    height: 100vh;
+}
+.main-box{
+    display: flex;
+    width: 100%;
+    height: 60px;
+    background-color: #f7f4f4;
+}
+
+.olx-title{
+    align-self: center;
+    margin-left: 15px;
+    font-weight: 900;
+    color: rgb(9, 20, 9);
+}
+
+.india-search{
+    width: 210px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: white;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 15px;
+    border: 2px solid rgb(1, 56, 1);
+}
+
+.search-icon{
+   align-self: center;
+   margin-left: 15px;
+   
+}
+
+.india-title{
+    display: flex;
+    justify-content: space-between;
+}
+
+.india{
+    margin-top: 7px;
+    margin-left: 10px;
+    color: rgb(1, 56, 1);
+}
+
+.dropdown{
+    font-size: 35px;
+    margin-left: 110px;
+}
+
+.search-box{
+    width: 305px;
+    height: 35px;
+    background-color: white;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 15px;
+    border: 2px solid rgb(1, 56, 1);
+    justify-content: space-between;
+    border-radius: 5px;
+}
+
+.search{
+    display: flex;
+    justify-content: space-between;
+}
+
+.properties{
+    margin-top: 8px;
+    margin-left: 10px;
+    color: rgb(3, 68, 3);
+    font-size: 15px;
+}
+
+.search-icons{
+    width: 37px;
+    height: 35px;
+    background-color: rgb(1, 56, 1);
+    margin-left: 145px;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.searchicon1{
+    color: white;
+    
+    align-items: center;
+    
+   
+    
+}
+
+.english{
+    margin-top: 20px;
+    margin-left: 15px;
+    font-weight: bolder;
+    font-size: 13px;
+    color: rgb(1, 56, 1);
+}
+
+.dropdowns{
+    margin-top: 5px;
+    font-size: 45px;
+}
+
+.iconss1{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.iconss2{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.iconss3{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.img img{
+    width: 50px;
+    margin-left: 15px;
+
+}
+
+.dropdown1{
+    margin-top: 5px;
+    font-size: 45px;
+}
+
+.sell-box{
+    width: 80px;
+    height: 40px;
+    background-color: white;
+    margin-top: 6px;
+    border-radius: 50px;
+    border: 3px solid blue;
+}
+
+.sell{
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: bolder;
+    margin-left: 10px;
+    font-family: sans-serif;
+}
+
+.second-box{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    border: 2px solid #a8a7a7;
+}
+
+.all-categories{
+    display: flex;
+    width:100px;
+}
+
+.all{
+    font-size: 11px;
+    font-family: sans-serif;
+    font-weight: 800;
+    margin-left: 20px;
+    margin-top: 12px;
+    color: rgb(1, 34, 1);
+}
+
+.dropdownn{
+    font-size: 40px;
+   
+}
+
+.car{
+    font-size: 12px;
+    margin-top: 12px;
+    margin-left: 15px;
+    color: rgb(1, 34, 1);
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+.motor{
+    padding: 12px;
+    font-size: 12px;
+    margin-left: 5px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: rgb(1, 34, 1);
+}
